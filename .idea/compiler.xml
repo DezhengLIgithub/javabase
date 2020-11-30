@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="datastruct" />
+        <module name="designpattern" />
+        <module name="forensic" />
+        <module name="jackson" />
+        <module name="jdk" />
+        <module name="leetcode" />
+        <module name="lib" />
+        <module name="mybatis" />
+        <module name="proxy" />
+        <module name="reference" />
+        <module name="testng" />
+        <module name="udp" />
+        <module name="util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="datastruct" target="1.7" />
+      <module name="designpattern" target="1.7" />
+      <module name="forensic" target="1.8" />
+      <module name="jackson" target="1.7" />
+      <module name="jdk" target="1.8" />
+      <module name="leetcode" target="1.7" />
+      <module name="lib" target="1.7" />
+      <module name="mybatis" target="1.7" />
+      <module name="proxy" target="1.7" />
+      <module name="reference" target="1.7" />
+      <module name="testng" target="1.7" />
+      <module name="udp" target="1.7" />
+      <module name="util" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

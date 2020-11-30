@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/datastruct/datastruct.iml" filepath="$PROJECT_DIR$/datastruct/datastruct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpattern/designpattern.iml" filepath="$PROJECT_DIR$/designpattern/designpattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forensic/forensic.iml" filepath="$PROJECT_DIR$/forensic/forensic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackson/jackson.iml" filepath="$PROJECT_DIR$/jackson/jackson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javabase.iml" filepath="$PROJECT_DIR$/.idea/javabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk/jdk.iml" filepath="$PROJECT_DIR$/jdk/jdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis/mybatis.iml" filepath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reference/reference.iml" filepath="$PROJECT_DIR$/reference/reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testng/testng.iml" filepath="$PROJECT_DIR$/testng/testng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udp/udp.iml" filepath="$PROJECT_DIR$/udp/udp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/util/util.iml" filepath="$PROJECT_DIR$/lib/util/util.iml" />
+    </modules>
+  </component>
+</project>
