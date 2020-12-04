@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="669aed3a-57f3-4a99-9a19-d5ad8cdacbb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/employees.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/DevOps工具.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/Dubbo技术学习.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/HashMap源码解析.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/Java测试工具总结.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/Spring框架技术.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/Spring生态整理.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/~$ring框架技术.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/~$ring生态整理.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/~$设计模式.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/设计模式.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/大数据云计算/Hadoop技术.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/大数据云计算/Spark技术.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/计算机基础/编译原理.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/io/ByteArrayInputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/io/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/io/RandomAccessFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/backtracking/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/sort/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/sort/Integers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/sort/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/sort/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/sort/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/sort/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/计算机基础/~$据结构和算法.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/计算机基础/~$据结构和算法.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/计算机基础/数据结构和算法.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/计算机基础/数据结构和算法.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/para/leetcode/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/para/leetcode/sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/java/Apache Shiro权限验证框架.doc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -298,7 +270,7 @@
       <workItem from="1605689521127" duration="1789000" />
       <workItem from="1606039093349" duration="4312000" />
       <workItem from="1606747921404" duration="1020000" />
-      <workItem from="1606889908060" duration="34359000" />
+      <workItem from="1606889908060" duration="34796000" />
     </task>
     <servers />
   </component>
