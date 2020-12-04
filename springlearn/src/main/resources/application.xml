@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd" default-autowire="byName">
+
+    <bean id="messageService" class="com.para.springlearn.service.impl.MessageServiceImpl"/>
+    <bean id="user" class="com.para.springlearn.entity.User" scope="prototype"/>
+
+
+    <!-- factory-bean：用于实例化工厂类；-->
+    <!-- factory-method：用于调用工厂类方法。-->
+    <bean id="carFactory" class="com.para.springlearn.factory.CarFactory" />
+    <bean id="car1" factory-bean="carFactory" factory-method="createCar"></bean>
+    <bean id="car2" class="com.para.springlearn.factory.CarFactory" factory-method="createStaticCar"></bean>
+</beans>

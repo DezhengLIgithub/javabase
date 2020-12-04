@@ -6,19 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="datastruct" />
-        <module name="designpattern" />
-        <module name="forensic" />
-        <module name="jackson" />
         <module name="jdk" />
-        <module name="leetcode" />
+        <module name="testng" />
+        <module name="util" />
         <module name="lib" />
+        <module name="designpattern" />
+        <module name="udp" />
+        <module name="jackson" />
+        <module name="reference" />
         <module name="mybatis" />
         <module name="proxy" />
-        <module name="reference" />
-        <module name="testng" />
-        <module name="udp" />
-        <module name="util" />
+        <module name="datastruct" />
+        <module name="leetcode" />
+        <module name="forensic" />
+        <module name="spring-learn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -32,9 +33,15 @@
       <module name="mybatis" target="1.7" />
       <module name="proxy" target="1.7" />
       <module name="reference" target="1.7" />
+      <module name="spring-learn" target="1.8" />
       <module name="testng" target="1.7" />
       <module name="udp" target="1.7" />
       <module name="util" target="1.7" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="forensic" options="-parameters" />
+    </option>
   </component>
 </project>
