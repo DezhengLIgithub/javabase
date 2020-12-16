@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/jackson/pom.xml" />
         <option value="$PROJECT_DIR$/testng/pom.xml" />
         <option value="$PROJECT_DIR$/springlearn/pom.xml" />
+        <option value="$PROJECT_DIR$/springtx/pom.xml" />
       </list>
     </option>
   </component>

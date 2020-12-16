@@ -2,7 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="669aed3a-57f3-4a99-9a19-d5ad8cdacbb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/doc/java/Apache Shiro权限验证框架.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fos2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fos3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fos4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/ai/~$机器学习.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/java/Zookeeper框架技术.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/java/junit测试技术.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/java/spring-batch.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/java/testng测试技术.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/java/~$bbo技术学习.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/java/~$ring-batch.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/file/FileDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/io/FileInputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/io/FileOutputStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/io/FileOutputStreamDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/io/FileOutputStreamDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/io/FileOutputStreamDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/io/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/lambda/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/sor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springtx/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springtx/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springtx/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springtx/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springtx/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springtx/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springtx/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springtx/src/main/java/com/para/springtx/SpringtxApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springtx/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springtx/src/test/java/com/para/springtx/SpringtxApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asmarch/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data1-part-0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/ai/机器学习.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/ai/机器学习.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/java/Dubbo技术学习.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/java/Dubbo技术学习.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/java/Spring生态整理.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/java/Spring生态整理.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/java/~$ring框架技术.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/java/~$设计模式.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/~$牛逼的网站.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/计算机基础/~$据结构和算法.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/src/main/java/com/para/Didi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/src/main/java/com/para/io/RandomAccessFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/io/RandomAccessFileTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/para/Didi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/para/io/RandomAccessFileTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/target/classes/com/para/io/RandomAccessFileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/target/jdk-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/target/jdk-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +79,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Kotlin File" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -43,7 +92,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="D:/usrLocal/maven" />
-        <option name="userSettingsFile" value="D:\usrLocal\maven\conf\settings.xml" />
+        <option name="userSettingsFile" value="D:\usrLocal\maven\conf\opentest.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -73,16 +122,16 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git-workspace\javabase\doc\java" />
+      <recent name="D:\git-workspace\javabase\doc\python" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\git-workspace\javabase\doc\计算机基础" />
       <recent name="D:\git-workspace\javabase\doc\数据库" />
       <recent name="D:\git-workspace\javabase\doc\软件工程" />
       <recent name="D:\git-workspace\javabase\doc\ai" />
       <recent name="D:\git-workspace\javabase\doc\容器" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\git-workspace\javabase\doc\java" />
-      <recent name="D:\git-workspace\javabase\doc\python" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -97,13 +146,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomAccessFileTest">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.para.leetcode.sort.BubbleSort" />
-      <module name="leetcode" />
+  <component name="RunManager" selected="Application.FileOutputStreamDemo4">
+    <configuration name="FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.para.file.FileDemo1" />
+      <module name="jdk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.para.leetcode.sort.*" />
+          <option name="PATTERN" value="com.para.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,8 +160,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ByteArrayInputStreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.para.io.ByteArrayInputStreamTest" />
+    <configuration name="FileOutputStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.para.io.FileOutputStreamDemo" />
       <module name="jdk" />
       <extension name="coverage">
         <pattern>
@@ -124,21 +173,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.para.leetcode.sort.Numbers" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.para.leetcode.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RandomAccessFileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.para.io.RandomAccessFileTest" />
+    <configuration name="FileOutputStreamDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.para.io.FileOutputStreamDemo2" />
       <module name="jdk" />
       <extension name="coverage">
         <pattern>
@@ -150,12 +186,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.para.leetcode.sort.SelectSort" />
-      <module name="leetcode" />
+    <configuration name="FileOutputStreamDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.para.io.FileOutputStreamDemo3" />
+      <module name="jdk" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.para.leetcode.sort.*" />
+          <option name="PATTERN" value="com.para.io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileOutputStreamDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.para.io.FileOutputStreamDemo4" />
+      <module name="jdk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.para.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,21 +219,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringtxApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springtx" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.para.springtx.SpringtxApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Spring Boot.ForensicApplication" />
-      <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.SelectSort" />
-      <item itemvalue="Application.Numbers" />
-      <item itemvalue="Application.ByteArrayInputStreamTest" />
-      <item itemvalue="Application.RandomAccessFileTest" />
+      <item itemvalue="Spring Boot.SpringtxApplication" />
+      <item itemvalue="Application.FileDemo1" />
+      <item itemvalue="Application.FileOutputStreamDemo" />
+      <item itemvalue="Application.FileOutputStreamDemo2" />
+      <item itemvalue="Application.FileOutputStreamDemo3" />
+      <item itemvalue="Application.FileOutputStreamDemo4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomAccessFileTest" />
-        <item itemvalue="Application.ByteArrayInputStreamTest" />
-        <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.SelectSort" />
-        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.FileOutputStreamDemo4" />
+        <item itemvalue="Application.FileOutputStreamDemo3" />
+        <item itemvalue="Application.FileOutputStreamDemo2" />
+        <item itemvalue="Application.FileOutputStreamDemo" />
+        <item itemvalue="Application.FileDemo1" />
       </list>
     </recent_temporary>
   </component>
@@ -271,40 +328,12 @@
       <workItem from="1606039093349" duration="4312000" />
       <workItem from="1606747921404" duration="1020000" />
       <workItem from="1606889908060" duration="34796000" />
+      <workItem from="1607393898790" duration="3354000" />
+      <workItem from="1607412687188" duration="9901000" />
+      <workItem from="1607505546739" duration="26247000" />
+      <workItem from="1608016557173" duration="8557000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="SecurityTest - 2020.09.20 at 16h 32m 38s.xml">
-      <configuration name="SecurityTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SecurityTest - 2020.09.20 at 16h 33m 22s.xml">
-      <configuration name="SecurityTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SecurityTest_getProviders - 2020.09.20 at 16h 51m 26s.xml">
-      <configuration name="SecurityTest.getProviders" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecurityTest_testMd5 - 2020.09.20 at 17h 11m 16s.xml">
-      <configuration name="SecurityTest.testMd5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecurityTest_testTimeStamp - 2020.09.20 at 17h 44m 20s.xml">
-      <configuration name="SecurityTest.testTimeStamp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecurityTest_testTimeStamp - 2020.09.20 at 17h 47m 02s.xml">
-      <configuration name="SecurityTest.testTimeStamp" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecurityTest_testKeyGenerator - 2020.09.20 at 18h 23m 44s.xml">
-      <configuration name="SecurityTest.testKeyGenerator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecurityTest_testKeyGenerator - 2020.09.20 at 18h 24m 22s.xml">
-      <configuration name="SecurityTest.testKeyGenerator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecurityTest_testKeyGenerator - 2020.09.20 at 18h 44m 04s.xml">
-      <configuration name="SecurityTest.testKeyGenerator" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecurityTest_testKeyGenerator - 2020.09.20 at 18h 47m 49s.xml">
-      <configuration name="SecurityTest.testKeyGenerator" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -314,7 +343,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

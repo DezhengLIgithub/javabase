@@ -15,6 +15,7 @@
         <module name="jackson" />
         <module name="reference" />
         <module name="mybatis" />
+        <module name="springtx" />
         <module name="proxy" />
         <module name="datastruct" />
         <module name="leetcode" />
@@ -34,6 +35,7 @@
       <module name="proxy" target="1.7" />
       <module name="reference" target="1.7" />
       <module name="spring-learn" target="1.8" />
+      <module name="springtx" target="1.8" />
       <module name="testng" target="1.7" />
       <module name="udp" target="1.7" />
       <module name="util" target="1.7" />
@@ -42,6 +44,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="forensic" options="-parameters" />
+      <module name="springtx" options="-parameters" />
     </option>
   </component>
 </project>
