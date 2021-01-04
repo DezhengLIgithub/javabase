@@ -2,94 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b3399ef-8be8-49f9-b38c-e75126f669be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/para/javabase/observer/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/para/javabase/observer/ConcreteObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/para/javabase/observer/ConcreteSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/para/javabase/observer/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/para/javabase/observer/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/JDBC技术.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/Java字节码指令详解和使用" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/Java测试开发.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/~$并发编程.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/~$日志技术.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/java/日志技术.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/大数据云计算/Kafka技术.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/计算机基础/~$据结构和算法.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/annotation/AnnotationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/annotation/MyAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/annotation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/array/ArrayTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/jdklock/DeadLockCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/juc/ConcurrentHashMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/juc/Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/juc/CountDownLatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/juc/CyclicBarrierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/juc/ForkJoinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/juc/ReentrantLockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/juc/ReentrantReadWriteLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/juc/SemphoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/reflect/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/reflect/ReflectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/reflect/ReflectTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/reflect/ReflectTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/AddPencilsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/AnnotationsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/AssertionsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/CalculateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/ExceptionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/FirstDayAtSchool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/FirstDayAtSchoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/JUnit4BasicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/JUnit4BasicTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/MyTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/NameRuleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/PrepareMyBagTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/SuitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/junit4/TimeoutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit/src/test/java/com/para/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/sort/ArrayInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/tree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/src/main/java/com/para/leetcode/tree/ReverseBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/src/main/java/com/para/learn/springbootdemo/SpringbootdemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/src/main/java/com/para/learn/springbootdemo/listener/EmailListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/src/main/java/com/para/learn/springbootdemo/listener/MyAppListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/src/main/java/com/para/learn/springbootdemo/listener/event/EmailEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/src/test/java/com/para/learn/springbootdemo/SpringbootdemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springbootdemo/src/test/java/com/para/learn/springbootdemo/listener/EmailListenerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springtx/src/main/java/com/para/springtx/config/TxConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng/src/main/java/com/para/testng/SingleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng/src/main/java/com/para/testng/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/src/main/java/com/para/javabase/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/com/para/javabase/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designpattern/src/test/java/com/para/javabase/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/test/java/com/para/javabase/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/java/Dubbo技术学习.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/java/Dubbo技术学习.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/java/~$bbo技术学习.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/java/~$ring-batch.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/java/~$ring生态整理.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/java/并发编程.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/java/并发编程.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/~$牛逼的网站.doc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/计算机基础/数据结构和算法.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/计算机基础/数据结构和算法.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/软件工程/项目管理工具-maven.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/软件工程/项目管理工具-maven.doc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdk/target/classes/com/para/io/FileInputStreamDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/jdk/target/classes/com/para/io/FileInputStreamDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/para/leetcode/sort/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/para/leetcode/sort/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/para/leetcode/sort/Numbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/para/leetcode/sort/Numbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/target/classes/com/para/leetcode/sort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/target/classes/com/para/leetcode/sort/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/netty/src/main/java/com/para/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit/src/main/java/com/para/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springtx/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springtx/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng/src/main/java/com/para/App.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/proxy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/proxy/dynamicproxy/MyInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/proxy/service/SomeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdk/src/main/java/com/para/proxy/service/impl/SomeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/java/Java字节码指令详解和使用" beforeDir="false" afterPath="$PROJECT_DIR$/doc/java/Java字节码指令详解和使用.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/java/~$ring源码解析.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/java/~$并发编程.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/java/~$va字节码指令详解和使用.doc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/java/~$日志技术.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/大数据云计算/Kafka技术.doc" beforeDir="false" afterPath="$PROJECT_DIR$/doc/大数据云计算/Kafka技术.doc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -149,6 +71,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.para.proxy.service.impl" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -161,20 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayTest">
-    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.para.reflect.Apple" />
-      <module name="jdk" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.para.reflect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="ArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.para.array.ArrayTest" />
       <module name="jdk" />
@@ -227,6 +141,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.para.proxy.Test" />
+      <module name="jdk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.para.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="springbootdemo" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.para.learn.springbootdemo.SpringbootdemoApplication" />
@@ -243,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ArrayTest" />
         <item itemvalue="Application.DeadLockCode" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.ReflectTest3" />
-        <item itemvalue="Application.Apple" />
       </list>
     </recent_temporary>
   </component>
@@ -273,7 +200,7 @@
       <updated>1608266071357</updated>
       <workItem from="1608266088215" duration="4161000" />
       <workItem from="1608275553206" duration="45716000" />
-      <workItem from="1609397559150" duration="2434000" />
+      <workItem from="1609397559150" duration="5339000" />
     </task>
     <servers />
   </component>
